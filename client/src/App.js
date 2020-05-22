@@ -3,14 +3,24 @@ import { BrowserRouter as Router, Route} from 'react-router-dom';
 import Header from './components/Header/Header';
 import Footer from './components/Footer';
 
+//**************************************************************************************/
 
+// import Login from './pages/Login/Login';
+// import Register from './pages/Register/Register';
+// import Profile from './pages/Profile/Profile';
+// import Users from './pages/Users/Users';
+// import Admin from './pages/Admin/Admin';
+// import NotFound from './pages/NotFound/NotFound';
+
+
+//************************************************************************************ */
 import BlogForm from './components/BlogComponents/BlogArticle/BlogForm';
 
 
-import Home from './pages/home';
+import Home from './Pages/home';
 // import BlogArticle from './pages/BlogArticle/Form';
-import BlogHome from './pages/bloghome.jsx';
-import About from './pages/about';
+import BlogHome from './Pages/bloghome.jsx';
+import About from './Pages/about';
 
 
 
